@@ -1,2 +1,2 @@
 # Insta-Quiz
-Instant memory jogger!
+Challenge yourself!
